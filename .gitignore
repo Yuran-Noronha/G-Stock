@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/main/resources/static/css/bootstrap.min.css
+/src/main/resources/static/js/bootstrap.min.js
+/src/main/resources/static/js/jquery-slim.min.js
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/mvnw
+/mvnw.cmd
+/src/main/resources/static/js/popper.min.js
